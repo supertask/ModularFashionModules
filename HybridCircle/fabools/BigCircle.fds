@@ -1,0 +1,2344 @@
+{
+    "FormatVersion": "0.1",
+    "Image": [
+        {
+            "DetailPAth": [
+                {
+                    "Color": "#000000",
+                    "LaserPower": 15,
+                    "ProccessTimes": 1,
+                    "Speed": 1000,
+                    "UseType": 1
+                }
+            ],
+            "Height": 326.11,
+            "ImageData": {
+                "ColorMap": [
+                    {
+                        "Color": "#000000"
+                    }
+                ],
+                "Common": {
+                    "Common_Display": true,
+                    "Common_Fill": {
+                        "Color": "none"
+                    },
+                    "Common_Stroke": {
+                        "Color": "none"
+                    },
+                    "Common_StrokeWidth": 0.5,
+                    "Common_Transform": {
+                        "Transform_0": 1,
+                        "Transform_1": 0,
+                        "Transform_2": 0,
+                        "Transform_3": 1,
+                        "Transform_4": 0,
+                        "Transform_5": 0
+                    }
+                },
+                "Dpi": 90,
+                "EffectiveAttribute": [
+                    "g",
+                    "path",
+                    "circle",
+                    "ellipse",
+                    "rect",
+                    "line",
+                    "polyline",
+                    "polygon",
+                    "defs",
+                    "use",
+                    "symbol"
+                ],
+                "Height": 0,
+                "KeepAspectRatio": true,
+                "MadeBy": 0,
+                "PathList": [
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": -5.488,
+                                "Transform_5": -4.883
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 528.107,
+                                    "Point_Y": 118.953
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 610.156,
+                                    "Point_Y": 118.953
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 610.156,
+                                            "Point_Y": 118.953
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 589.9366963712987,
+                                            "Point_Y": 84.00665246653432
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 552.6235937379327,
+                                            "Point_Y": 62.48687128827153
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 512.2495,
+                                            "Point_Y": 62.48687128827152
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 512.2495,
+                                            "Point_Y": 62.48687128827152
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 471.8754062620673,
+                                            "Point_Y": 62.48687128827152
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 434.56230362870116,
+                                            "Point_Y": 84.00665246653435
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 414.34299999999996,
+                                            "Point_Y": 118.95300000000002
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 496.10699999999997,
+                                    "Point_Y": 118.953
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 331.67199999999997,
+                                    "Point_Y": 118.953
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 413.72,
+                                    "Point_Y": 118.953
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 413.72,
+                                            "Point_Y": 118.953
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 393.4226421351607,
+                                            "Point_Y": 83.99817361079899
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 356.0565717944779,
+                                            "Point_Y": 62.486825827141296
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 315.636,
+                                            "Point_Y": 62.48682582714129
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 315.636,
+                                            "Point_Y": 62.48682582714129
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 275.2154282055222,
+                                            "Point_Y": 62.48682582714129
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 237.8493578648394,
+                                            "Point_Y": 83.99817361079901
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 217.55200000000002,
+                                            "Point_Y": 118.95300000000003
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 299.672,
+                                    "Point_Y": 118.953
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 159.481,
+                                    "Point_Y": 219.831
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 119.419,
+                                    "Point_Y": 289.139
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 119.419,
+                                            "Point_Y": 289.139
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 99.15131749238927,
+                                            "Point_Y": 254.047562810612
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 99.13892838113352,
+                                            "Point_Y": 210.81030940818718
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 119.38649750971113,
+                                            "Point_Y": 175.7072630641796
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 119.38649750971113,
+                                            "Point_Y": 175.7072630641796
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 139.63406663828874,
+                                            "Point_Y": 140.60421672017202
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 177.06709088823138,
+                                            "Point_Y": 118.96561854980104
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 217.59099999999992,
+                                            "Point_Y": 118.93900000000001
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 175.48,
+                                    "Point_Y": 192.118
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 77.256,
+                                    "Point_Y": 362.242
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 119.4,
+                                    "Point_Y": 289.18
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 119.4,
+                                            "Point_Y": 289.18
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 78.84871548137853,
+                                            "Point_Y": 289.13083337383006
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 41.364547363729145,
+                                            "Point_Y": 310.76239311161135
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 21.117513170590005,
+                                            "Point_Y": 345.8973714074517
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 21.117513170590005,
+                                            "Point_Y": 345.8973714074517
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 0.8704789774508688,
+                                            "Point_Y": 381.032349703292
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 0.9496128236395641,
+                                            "Point_Y": 424.3102999088619
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 21.324999999999978,
+                                            "Point_Y": 459.3709999999999
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 61.256,
+                                    "Point_Y": 389.95399999999995
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 159.481,
+                                    "Point_Y": 698.64
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 119.419,
+                                    "Point_Y": 629.332
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 119.419,
+                                            "Point_Y": 629.332
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 99.15131749238928,
+                                            "Point_Y": 664.423437189388
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 99.13892838113357,
+                                            "Point_Y": 707.6606905918128
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 119.38649750971119,
+                                            "Point_Y": 742.7637369358204
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 119.38649750971119,
+                                            "Point_Y": 742.7637369358204
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 139.6340666382888,
+                                            "Point_Y": 777.8667832798279
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 177.0670908882314,
+                                            "Point_Y": 799.5053814501989
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 217.59099999999995,
+                                            "Point_Y": 799.5319999999999
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 175.48,
+                                    "Point_Y": 726.353
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 77.256,
+                                    "Point_Y": 556.23
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 119.4,
+                                    "Point_Y": 629.292
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 119.4,
+                                            "Point_Y": 629.292
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 78.8486681443505,
+                                            "Point_Y": 629.3407519095289
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 41.36462865887997,
+                                            "Point_Y": 607.708947355869
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 21.11766038924676,
+                                            "Point_Y": 572.5738770143404
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 21.11766038924676,
+                                            "Point_Y": 572.5738770143404
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 0.8706921196135492,
+                                            "Point_Y": 537.4388066728118
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 0.9497696648486036,
+                                            "Point_Y": 494.16084540916296
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 21.324999999999978,
+                                            "Point_Y": 459.1
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 61.256,
+                                    "Point_Y": 528.517
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 666.577,
+                                    "Point_Y": 216.825
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 708.355,
+                                    "Point_Y": 289.19
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 708.355,
+                                            "Point_Y": 289.19
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 728.6358984840413,
+                                            "Point_Y": 254.09713303476954
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 728.6582181717104,
+                                            "Point_Y": 210.85115267595685
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 708.4135540492903,
+                                            "Point_Y": 175.73737005816207
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 708.4135540492903,
+                                            "Point_Y": 175.73737005816207
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 688.1688899268703,
+                                            "Point_Y": 140.6235874403673
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 650.7317548726876,
+                                            "Point_Y": 118.9746559586946
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 610.2,
+                                            "Point_Y": 118.943
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 610.2,
+                                    "Point_Y": 118.943
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 650.581,
+                                    "Point_Y": 189.112
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 748.792,
+                                    "Point_Y": 359.236
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 708.355,
+                                    "Point_Y": 289.19
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 708.355,
+                                            "Point_Y": 289.19
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 748.8833893927213,
+                                            "Point_Y": 289.1292583899635
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 786.3557642007396,
+                                            "Point_Y": 310.727369488651
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 806.6187861672021,
+                                            "Point_Y": 345.82671388563205
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 806.6187861672021,
+                                            "Point_Y": 345.82671388563205
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 826.8818081336647,
+                                            "Point_Y": 380.9260582826131
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 826.8471873092748,
+                                            "Point_Y": 424.1771400977813
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 806.528,
+                                            "Point_Y": 459.244
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 764.788,
+                                    "Point_Y": 386.944
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 666.577,
+                                    "Point_Y": 701.644
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 708.355,
+                                    "Point_Y": 629.279
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 708.355,
+                                            "Point_Y": 629.279
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 728.6369222208428,
+                                            "Point_Y": 664.3719900494679
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 728.6597922107316,
+                                            "Point_Y": 707.6187077152334
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 708.414997496482,
+                                            "Point_Y": 742.7331293474099
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 708.414997496482,
+                                            "Point_Y": 742.7331293474099
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 688.1702027822324,
+                                            "Point_Y": 777.8475509795862
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 650.7323740164944,
+                                            "Point_Y": 799.4967562584447
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 610.2000000000002,
+                                            "Point_Y": 799.528
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 610.2,
+                                    "Point_Y": 799.528
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 650.581,
+                                    "Point_Y": 729.359
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 748.792,
+                                    "Point_Y": 559.2360000000001
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 708.359,
+                                    "Point_Y": 629.2820000000002
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 708.359,
+                                            "Point_Y": 629.2820000000002
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 748.8876993782012,
+                                            "Point_Y": 629.3429495914307
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 786.3604225771709,
+                                            "Point_Y": 607.7447019384779
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 806.6235103119986,
+                                            "Point_Y": 572.6450372165468
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 806.6235103119986,
+                                            "Point_Y": 572.6450372165468
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 826.8865980468264,
+                                            "Point_Y": 537.5453724946158
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 826.8517010063742,
+                                            "Point_Y": 494.2939208678616
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 806.532,
+                                            "Point_Y": 459.22700000000015
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 764.792,
+                                    "Point_Y": 531.5270000000002
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 333.906,
+                                    "Point_Y": 799.413
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 413.96000000000004,
+                                    "Point_Y": 799.453
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 413.96000000000004,
+                                            "Point_Y": 799.453
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 393.7026223512885,
+                                            "Point_Y": 834.5486322241343
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 356.2651924727174,
+                                            "Point_Y": 856.1758971546229
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 315.7427976156885,
+                                            "Point_Y": 856.1921902592326
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 315.7427976156885,
+                                            "Point_Y": 856.1921902592326
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 275.22040275865965,
+                                            "Point_Y": 856.2084833638422
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 237.76559335556502,
+                                            "Point_Y": 834.6113308463383
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 217.48000000000002,
+                                            "Point_Y": 799.5319999999999
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 301.90600000000006,
+                                    "Point_Y": 799.4129999999999
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 498.35,
+                                    "Point_Y": 799.4129999999999
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 414.005,
+                                    "Point_Y": 799.4469999999999
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 414.005,
+                                            "Point_Y": 799.4469999999999
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 434.23785324414223,
+                                            "Point_Y": 834.5903563160284
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 471.71360370336356,
+                                            "Point_Y": 856.2370194709522
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 512.2650862756108,
+                                            "Point_Y": 856.2037817353348
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 512.2650862756108,
+                                            "Point_Y": 856.2037817353348
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 552.816568847858,
+                                            "Point_Y": 856.1705439997173
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 590.2567839090192,
+                                            "Point_Y": 834.4624765040013
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 610.432,
+                                            "Point_Y": 799.286
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 530.35,
+                                    "Point_Y": 799.4129999999999
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 530.5,
+                                    "Point_Y": 786.4959999999999
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 498.5,
+                                    "Point_Y": 786.4959999999999
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 333.90700000000004,
+                                    "Point_Y": 786.4959999999999
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 301.90700000000004,
+                                    "Point_Y": 786.4959999999999
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 654.5540000000001,
+                                    "Point_Y": 694.6399999999999
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 638.5540000000001,
+                                    "Point_Y": 722.3519999999999
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 752.69,
+                                    "Point_Y": 524.644
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 736.69,
+                                    "Point_Y": 552.356
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 654.5120000000001,
+                                    "Point_Y": 223.786
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 638.5120000000001,
+                                    "Point_Y": 196.073
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 752.718,
+                                    "Point_Y": 393.921
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 736.718,
+                                    "Point_Y": 366.20799999999997
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": -5.488,
+                                "Transform_5": -4.883
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1200.892,
+                                    "Point_Y": 402.275
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1117.333,
+                                    "Point_Y": 402.275
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1117.333,
+                                            "Point_Y": 402.275
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1137.5839683913696,
+                                            "Point_Y": 437.38597284882104
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1175.0258325851403,
+                                            "Point_Y": 459.02851701820384
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1215.5583081149714,
+                                            "Point_Y": 459.0522362622689
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1215.5583081149714,
+                                            "Point_Y": 459.0522362622689
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1256.0907836448027,
+                                            "Point_Y": 459.0759555063339
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1293.5579522346688,
+                                            "Point_Y": 437.47724743647495
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1313.8500000000001,
+                                            "Point_Y": 402.39
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1313.8500000000001,
+                                    "Point_Y": 402.39
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1232.891,
+                                    "Point_Y": 402.276
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1255.537,
+                                    "Point_Y": 301.615
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1215.545,
+                                    "Point_Y": 232.26600000000002
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1215.545,
+                                            "Point_Y": 232.26600000000002
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1256.0677583781203,
+                                            "Point_Y": 232.26120829510708
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1293.5167124660825,
+                                            "Point_Y": 253.86937202039968
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1313.7922167795255,
+                                            "Point_Y": 288.9549515990173
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1313.7922167795255,
+                                            "Point_Y": 288.9549515990173
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1334.0677210929687,
+                                            "Point_Y": 324.0405311776349
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1334.0912710424002,
+                                            "Point_Y": 367.2763536777473
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1313.854,
+                                            "Point_Y": 402.384
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1271.537,
+                                    "Point_Y": 329.327
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1173.318,
+                                    "Point_Y": 159.2
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1215.518,
+                                    "Point_Y": 232.228
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1215.518,
+                                            "Point_Y": 232.228
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1235.835269023544,
+                                            "Point_Y": 197.13459443402616
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1235.8435089213233,
+                                            "Point_Y": 153.85756539147212
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1215.5396048604673,
+                                            "Point_Y": 118.75642559971395
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1215.5396048604673,
+                                            "Point_Y": 118.75642559971395
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1195.2357007996115,
+                                            "Point_Y": 83.65528580795579
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1157.7172817590856,
+                                            "Point_Y": 62.08517817388302
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1117.167,
+                                            "Point_Y": 62.199999999999996
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1157.318,
+                                    "Point_Y": 131.489
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1036.455,
+                                    "Point_Y": 402.266
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1117.3329999999999,
+                                    "Point_Y": 402.274
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1117.3329999999999,
+                                            "Point_Y": 402.274
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1097.1212294058428,
+                                            "Point_Y": 437.4030541894833
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1059.6802704384597,
+                                            "Point_Y": 459.0559349411606
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1019.1516864998124,
+                                            "Point_Y": 459.0542837292339
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1019.1516864998124,
+                                            "Point_Y": 459.0542837292339
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 978.623102561165,
+                                            "Point_Y": 459.0526325173072
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 941.1839080775214,
+                                            "Point_Y": 437.3967010051433
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 920.975,
+                                            "Point_Y": 402.26599999999996
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1004.4549999999999,
+                                    "Point_Y": 402.266
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 781.0239999999999,
+                                    "Point_Y": 159.866
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 822.8049999999998,
+                                    "Point_Y": 232.23000000000002
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 822.8049999999998,
+                                            "Point_Y": 232.23000000000002
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 782.2732568658992,
+                                            "Point_Y": 232.24647016602182
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 744.8104023352489,
+                                            "Point_Y": 210.64221490151462
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 724.52374273155,
+                                            "Point_Y": 175.55270201121172
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 724.52374273155,
+                                            "Point_Y": 175.55270201121172
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 704.2370831278512,
+                                            "Point_Y": 140.46318912090885
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 704.2074491495747,
+                                            "Point_Y": 97.21728252911706
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 724.446,
+                                            "Point_Y": 62.1
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 724.446,
+                                    "Point_Y": 62.1
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 765.024,
+                                    "Point_Y": 132.156
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 840.876,
+                                    "Point_Y": 62.21300000000001
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 920.93,
+                                    "Point_Y": 62.17300000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 920.93,
+                                            "Point_Y": 62.17300000000001
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 900.6726223512884,
+                                            "Point_Y": 27.077367775865604
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 863.2351924727174,
+                                            "Point_Y": 5.450102845376958
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 822.7127976156885,
+                                            "Point_Y": 5.433809740767302
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 822.7127976156885,
+                                            "Point_Y": 5.433809740767302
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 782.1904027586596,
+                                            "Point_Y": 5.417516636157646
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 744.7355933555649,
+                                            "Point_Y": 27.014669153661515
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 724.4499999999999,
+                                            "Point_Y": 62.094000000000015
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 808.876,
+                                    "Point_Y": 62.21300000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1005.3199999999999,
+                                    "Point_Y": 62.21300000000001
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 920.9749999999999,
+                                    "Point_Y": 62.17900000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 920.9749999999999,
+                                            "Point_Y": 62.17900000000001
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 941.2082614694976,
+                                            "Point_Y": 27.03618321986787
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 978.6838667730186,
+                                            "Point_Y": 5.389987816427197
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1019.2350854501719,
+                                            "Point_Y": 5.42322533574491
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1019.2350854501719,
+                                            "Point_Y": 5.42322533574491
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1059.7863041273251,
+                                            "Point_Y": 5.456462855062622
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1097.226374799759,
+                                            "Point_Y": 27.164062361972405
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1117.4019999999998,
+                                            "Point_Y": 62.33999999999997
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1037.3199999999997,
+                                    "Point_Y": 62.21300000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 863.25,
+                                    "Point_Y": 302.266
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 822.805,
+                                    "Point_Y": 232.228
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 822.805,
+                                            "Point_Y": 232.228
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 802.4876540113893,
+                                            "Point_Y": 267.29620535900597
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 802.4557729843232,
+                                            "Point_Y": 310.54762158226214
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 822.7213987127503,
+                                            "Point_Y": 345.64574103270627
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 822.7213987127503,
+                                            "Point_Y": 345.64574103270627
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 842.9870244411775,
+                                            "Point_Y": 380.7438604831504
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 880.4613749021552,
+                                            "Point_Y": 402.33920903891715
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 920.99,
+                                            "Point_Y": 402.275
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 879.25,
+                                    "Point_Y": 329.97499999999997
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 793.081,
+                                    "Point_Y": 152.944
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 777.081,
+                                    "Point_Y": 125.231
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 891.238,
+                                    "Point_Y": 322.931
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 875.238,
+                                    "Point_Y": 295.21799999999996
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1200.877,
+                                    "Point_Y": 388.335
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1232.877,
+                                    "Point_Y": 388.335
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1004.433,
+                                    "Point_Y": 388.317
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1036.433,
+                                    "Point_Y": 388.317
+                                },
+                                "PathElement_Type": 3
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": -5.488,
+                                "Transform_5": -4.883
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 781.024,
+                                    "Point_Y": 775.369
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 822.805,
+                                    "Point_Y": 703.0060000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 822.805,
+                                            "Point_Y": 703.0060000000001
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 782.2726386497746,
+                                            "Point_Y": 702.9891177519439
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 744.8090908813908,
+                                            "Point_Y": 724.5936463239003
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 724.5223005099579,
+                                            "Point_Y": 759.6837979060904
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 724.5223005099579,
+                                            "Point_Y": 759.6837979060904
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 704.2355101385249,
+                                            "Point_Y": 794.7739494882803
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 704.2064257949487,
+                                            "Point_Y": 838.020593523528
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 724.4459999999999,
+                                            "Point_Y": 873.138
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 724.4459999999999,
+                                    "Point_Y": 873.1380000000001
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 765.0239999999999,
+                                    "Point_Y": 803.0820000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 840.8759999999999,
+                                    "Point_Y": 873.0240000000001
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 920.9299999999998,
+                                    "Point_Y": 873.0650000000002
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 920.9299999999998,
+                                            "Point_Y": 873.0650000000002
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 900.6726223512883,
+                                            "Point_Y": 908.1606322241346
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 863.2351924727172,
+                                            "Point_Y": 929.7878971546232
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 822.7127976156884,
+                                            "Point_Y": 929.8041902592329
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 822.7127976156884,
+                                            "Point_Y": 929.8041902592329
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 782.1904027586594,
+                                            "Point_Y": 929.8204833638425
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 744.7355933555648,
+                                            "Point_Y": 908.2233308463386
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 724.4499999999998,
+                                            "Point_Y": 873.1440000000001
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 808.8759999999999,
+                                    "Point_Y": 873.0240000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1005.3199999999998,
+                                    "Point_Y": 873.0240000000001
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 920.9749999999998,
+                                    "Point_Y": 873.0580000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 920.9749999999998,
+                                            "Point_Y": 873.0580000000001
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 941.2079901439242,
+                                            "Point_Y": 908.2001443749076
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 978.6827153870986,
+                                            "Point_Y": 929.846151047197
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1019.2332164629283,
+                                            "Point_Y": 929.8135331056418
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1019.2332164629283,
+                                            "Point_Y": 929.8135331056418
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1059.783717538758,
+                                            "Point_Y": 929.7809151640865
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1097.2235711559454,
+                                            "Point_Y": 908.0746488330982
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1117.4,
+                                            "Point_Y": 872.9000000000001
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1037.3180000000002,
+                                    "Point_Y": 873.0269999999999
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 863.25,
+                                    "Point_Y": 632.967
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 822.805,
+                                    "Point_Y": 703.006
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 822.805,
+                                            "Point_Y": 703.006
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 802.4876540113893,
+                                            "Point_Y": 667.937794640994
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 802.4557729843232,
+                                            "Point_Y": 624.6863784177378
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 822.7213987127503,
+                                            "Point_Y": 589.5882589672937
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 822.7213987127503,
+                                            "Point_Y": 589.5882589672937
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 842.9870244411776,
+                                            "Point_Y": 554.4901395168495
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 880.4613749021553,
+                                            "Point_Y": 532.8947909610827
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 920.9900000000001,
+                                            "Point_Y": 532.959
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 879.25,
+                                    "Point_Y": 605.2589999999999
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1200.892,
+                                    "Point_Y": 532.959
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1117.333,
+                                    "Point_Y": 532.959
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1117.333,
+                                            "Point_Y": 532.959
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1137.5839683913696,
+                                            "Point_Y": 497.8480271511789
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1175.0258325851403,
+                                            "Point_Y": 476.20548298179614
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1215.5583081149714,
+                                            "Point_Y": 476.1817637377311
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1215.5583081149714,
+                                            "Point_Y": 476.1817637377311
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1256.0907836448027,
+                                            "Point_Y": 476.15804449366607
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1293.5579522346688,
+                                            "Point_Y": 497.75675256352497
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1313.8500000000001,
+                                            "Point_Y": 532.8439999999999
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1313.8500000000001,
+                                    "Point_Y": 532.8439999999999
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1232.891,
+                                    "Point_Y": 532.957
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1255.537,
+                                    "Point_Y": 633.619
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1215.545,
+                                    "Point_Y": 702.967
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1215.545,
+                                            "Point_Y": 702.967
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1256.0677103730595,
+                                            "Point_Y": 702.9722040286307
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1293.5167910530326,
+                                            "Point_Y": 681.3642847765606
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1313.7923607200287,
+                                            "Point_Y": 646.2787983506955
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1313.7923607200287,
+                                            "Point_Y": 646.2787983506955
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1334.0679303870245,
+                                            "Point_Y": 611.1933119248305
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1334.0914255155633,
+                                            "Point_Y": 567.9575019271209
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1313.854,
+                                            "Point_Y": 532.85
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1271.537,
+                                    "Point_Y": 605.9060000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1173.318,
+                                    "Point_Y": 776.0330000000001
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1215.518,
+                                    "Point_Y": 703.0050000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1215.518,
+                                            "Point_Y": 703.0050000000001
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1235.8364792447535,
+                                            "Point_Y": 738.0988372784537
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1235.84508243303,
+                                            "Point_Y": 781.3770350637509
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1215.5405572640868,
+                                            "Point_Y": 816.4789477097851
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1215.5405572640868,
+                                            "Point_Y": 816.4789477097851
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1195.2360320951439,
+                                            "Point_Y": 851.5808603558193
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1157.7162585220697,
+                                            "Point_Y": 873.1509569847962
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1117.165,
+                                            "Point_Y": 873.0350000000001
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1157.316,
+                                    "Point_Y": 803.7450000000001
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1036.455,
+                                    "Point_Y": 532.967
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1117.3329999999999,
+                                    "Point_Y": 532.96
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Arc": [
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1117.3329999999999,
+                                            "Point_Y": 532.96
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 1097.1210005361324,
+                                            "Point_Y": 497.83138129081715
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 1059.680296347833,
+                                            "Point_Y": 476.17877680423254
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 1019.151975723175,
+                                            "Point_Y": 476.18022160528153
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Point_No": 1,
+                                            "Point_X": 1019.151975723175,
+                                            "Point_Y": 476.18022160528153
+                                        },
+                                        {
+                                            "Point_No": 2,
+                                            "Point_X": 978.623655098517,
+                                            "Point_Y": 476.18166640633046
+                                        },
+                                        {
+                                            "Point_No": 3,
+                                            "Point_X": 941.1844948001975,
+                                            "Point_Y": 497.83694029803934
+                                        },
+                                        {
+                                            "Point_No": 4,
+                                            "Point_X": 920.9749999999998,
+                                            "Point_Y": 532.967
+                                        }
+                                    ]
+                                ],
+                                "PathElement_Type": 9
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1004.4549999999999,
+                                    "Point_Y": 532.967
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1200.855,
+                                    "Point_Y": 546.861
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1232.855,
+                                    "Point_Y": 546.861
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1004.563,
+                                    "Point_Y": 546.8729999999999
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1036.563,
+                                    "Point_Y": 546.8729999999999
+                                },
+                                "PathElement_Type": 3
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 793.1,
+                                    "Point_Y": 782.326
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 777.1,
+                                    "Point_Y": 810.039
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 891.341,
+                                    "Point_Y": 612.21
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 875.341,
+                                    "Point_Y": 639.922
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    }
+                ],
+                "Unit": 0,
+                "ViewBox": {
+                    "ViewBox_H": 925.468,
+                    "ViewBox_W": 1324.075,
+                    "ViewBox_X": 0,
+                    "ViewBox_Y": 0
+                },
+                "Width": 0
+            },
+            "ImageExtention": "svg",
+            "ImageName": "BigCircle",
+            "ImageType": 2,
+            "PosX": 100,
+            "PosY": 1,
+            "Rotation": 0,
+            "Width": 466.75
+        }
+    ],
+    "ProjectName": "BigCircle"
+}

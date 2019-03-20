@@ -1,0 +1,21 @@
+
+
+Ensuk Module
+優先度
+
+パート１
+1. MiddleHexagon60x44 x 2 灰色
+2. SmallHexagon60x44 x 2 黒
+
+パート２
+3. SuperSmallGenHexagon x 1 (50個生成) 白
+4. SmallGenHexagon x 1 灰色
+5. MiddleGenHexagon x 1 黒色
+
+
+Cuma & Cross
+cross x 2 （時間あれば2個） 白
+cuma x 2 （時間あれば2個）白
+
+
+Carolin

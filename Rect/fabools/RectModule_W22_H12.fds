@@ -1,0 +1,630 @@
+{
+    "FormatVersion": "0.1",
+    "Image": [
+        {
+            "DetailPAth": [
+                {
+                    "Color": "#000000",
+                    "LaserPower": 15,
+                    "ProccessTimes": 1,
+                    "Speed": 1000,
+                    "UseType": 1
+                }
+            ],
+            "Height": 80.002,
+            "ImageData": {
+                "ColorMap": [
+                    {
+                        "Color": "#000000"
+                    }
+                ],
+                "Common": {
+                    "Common_Display": true,
+                    "Common_Fill": {
+                        "Color": "none"
+                    },
+                    "Common_Stroke": {
+                        "Color": "none"
+                    },
+                    "Common_StrokeWidth": 0.5,
+                    "Common_Transform": {
+                        "Transform_0": 1,
+                        "Transform_1": 0,
+                        "Transform_2": 0,
+                        "Transform_3": 1,
+                        "Transform_4": 2.1912244094488194,
+                        "Transform_5": 3.937007874015748
+                    }
+                },
+                "Dpi": 100,
+                "EffectiveAttribute": [
+                    "g",
+                    "path",
+                    "circle",
+                    "ellipse",
+                    "rect",
+                    "line",
+                    "polyline",
+                    "polygon",
+                    "defs",
+                    "use",
+                    "symbol"
+                ],
+                "Height": 0,
+                "KeepAspectRatio": true,
+                "MadeBy": 7,
+                "PathList": [
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 316.7799212598426,
+                                    "Point_Y": 314.96062992125985
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1.8191614173228348,
+                                    "Point_Y": 314.96062992125985
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1.8191614173228348,
+                                    "Point_Y": 0
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 316.7799212598426,
+                                    "Point_Y": 0
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 316.7799212598426,
+                                    "Point_Y": 314.96062992125985
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 198.59842519685043,
+                                    "Point_Y": 39.59173228346457
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 277.28543307086613,
+                                    "Point_Y": 118.08385826771655
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 1.7457834645669292,
+                                    "Point_Y": 157.48031496062993
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 41.19133858267717,
+                                    "Point_Y": 118.03464566929134
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 119.85393700787402,
+                                    "Point_Y": 39.44566929133858
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 159.2996062992126,
+                                    "Point_Y": 0
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 159.16496062992127,
+                                    "Point_Y": 314.86299212598425
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 198.61062992125986,
+                                    "Point_Y": 275.4173228346457
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 277.27322834645673,
+                                    "Point_Y": 196.8283464566929
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 316.7188976377953,
+                                    "Point_Y": 157.38267716535435
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 41.46692913385827,
+                                    "Point_Y": 197.11377952755905
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 120.15433070866143,
+                                    "Point_Y": 275.60551181102363
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 316.709842519685,
+                                    "Point_Y": 0.007874015748031496
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 631.6692913385826,
+                                    "Point_Y": 0.007874015748031496
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 631.6692913385826,
+                                    "Point_Y": 314.9685039370079
+                                },
+                                "PathElement_Type": 2
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 316.709842519685,
+                                    "Point_Y": 314.9685039370079
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 513.488188976378,
+                                    "Point_Y": 39.599606299212596
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 592.1771653543308,
+                                    "Point_Y": 118.09173228346458
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 316.6366141732284,
+                                    "Point_Y": 157.48818897637798
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 356.08228346456696,
+                                    "Point_Y": 118.04251968503938
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 434.744094488189,
+                                    "Point_Y": 39.45354330708662
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 474.18897637795277,
+                                    "Point_Y": 0.007874015748031496
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 474.0551181102362,
+                                    "Point_Y": 314.8708661417323
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 513.5,
+                                    "Point_Y": 275.4251968503937
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 592.1653543307087,
+                                    "Point_Y": 196.83622047244097
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 631.6102362204725,
+                                    "Point_Y": 157.39055118110238
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Common": {
+                            "Common_Display": true,
+                            "Common_Fill": {
+                                "Color": "none"
+                            },
+                            "Common_Stroke": {
+                                "Color": "#000000"
+                            },
+                            "Common_StrokeDash": "",
+                            "Common_StrokeWidth": 0.2,
+                            "Common_Transform": {
+                                "Transform_0": 1,
+                                "Transform_1": 0,
+                                "Transform_2": 0,
+                                "Transform_3": 1,
+                                "Transform_4": 2.1912244094488194,
+                                "Transform_5": 3.937007874015748
+                            }
+                        },
+                        "PathElementList": [
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 356.35787401574805,
+                                    "Point_Y": 197.1216535433071
+                                },
+                                "PathElement_Type": 1
+                            },
+                            {
+                                "PathElement_Point": {
+                                    "Point_X": 435.0433070866142,
+                                    "Point_Y": 275.61338582677166
+                                },
+                                "PathElement_Type": 2
+                            }
+                        ]
+                    }
+                ],
+                "Unit": 5,
+                "ViewBox": {
+                    "ViewBox_H": 322.84251968503935,
+                    "ViewBox_W": 637.7992125984252,
+                    "ViewBox_X": -2.1912244094488194,
+                    "ViewBox_Y": -3.937007874015748
+                },
+                "Width": 0
+            },
+            "ImageExtention": "dxf",
+            "ImageName": "RectModule_W22_H12",
+            "ImageType": 2,
+            "PosX": 100,
+            "PosY": 1,
+            "Rotation": 0,
+            "Width": 160.00057099999998
+        }
+    ],
+    "ProjectName": "RectModule_W22_H12"
+}
