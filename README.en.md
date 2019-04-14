@@ -32,7 +32,7 @@ This repo has following modules.
 
 [3] Hur ES, Thomas BG (2011) "Transformative Modular Textile Design", The Bridg 2011: Mathematical Connections between Art, Music and Science The Bridges Organization: art and mathematics.: p217-p244.
 
-[4] Corolin Vogler, "Modular Fashion", https://medium.com/@CarolinVogler/modular-fashion-c98306c820a9 （最終アクセス 2019年3月8日）
+[4] Carolin Vogler, "Modular Fashion", https://medium.com/@CarolinVogler/modular-fashion-c98306c820a9 （最終アクセス 2019年3月8日）
 
 [5] Hur ES, Beverley KJ (2013) "The role of craft in a co-design system for sustainable fashion", The Making Futures: the Crafts as Change Maker in Sustainably Aware Cultures, Proceedings: Making Futures: The Crafts in the Context of Emerging Global Sustainability Agendas Plymouth College of Art: 2.
 
