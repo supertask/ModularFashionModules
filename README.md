@@ -1,28 +1,66 @@
-# Modular Fashion Modules
+# Modules of Modular Fashion
 *Read this in other languages: [English](README.en.md), [日本語](README.md)
 
-モジュラ・ファッションのモジュール集です．以下のモジュールが含まれています．
+This is modules at Modular Fashion. Modular Fashion is an approach to the production of accessories and
+garments using vector graphic design of bidimensional lasercut modules.
 
-- Carolin三角形モジュール
-    - Carolin/
-    - [Carolinによる記事](https://medium.com/@CarolinVogler/modular-fashion-c98306c820a9)
+![Carolin](./images/modular_fashion_1.jpg)
+![Carolin](./images/modular_fashion_2.jpg)
 
-- EUNSUKハイブリッド多角形モジュール
-    - HybridHexagon/
-    - HybridCircle/
-    - [EUNSUKらによる論文](https://archive.bridgesmathart.org/2011/bridges2011-217.pdf)
+Please check out [this Zoe's slides] (http://wiki.textile-academy.org/_media/fabricademy2017/classes/modularfashionfabricademy.pdf) at FABRICADEMY(http://textile-academy.org/) .
 
-- Fioen-Berber正方形モジュール
-    - Rect/
 
-- 人型トルソー
-    - HumanTorso/
-    - [Carolinによるトルソー作成の記事](https://medium.com/@CarolinVogler/fabricating-human-shapes-6854cb14aef7)
+This repo has following modules and additional SVGs.
 
-## 公開できなかったモジュール
-クマ・モジュールとクロース・モジュールについては，安藤 健浩さんのモジュールについては [こちら](http://www.andoo.jp/index-4.html#panel-3) をご覧ください．このモジュールは特許申請がされています．使いたい場合は個人で作成する必要があります．また，以前まではこれらのモジュールは販売されていましたが今は販売されていないため，現在は個人でレーザーを使って作成する以外に方法がありません．
+| Module name  | Directory name |
+|-------|-------|
+| Carolin module                 | Calolin/  |
+| Eunsuk module                  | HybridHexagon/, HybridCircle/  |
+| Fioen-Berber rectangle module  | Rect/ |
+| Shape Shifters module  | ShapeShifters/ |
 
-## 参考
+| Additional SVG's name  | Directory name |
+|-------|-------|
+| Human torso                    | HumanTorso/ |
+
+
+## Carolin module
+[Article about a module of Carolin](https://medium.com/@CarolinVogler/modular-fashion-c98306c820a9)
+![Carolin](./images/CarolinDescription.png)
+
+
+## Eunsuk module
+[Public thesis about these modules by Hur ES, Thomas BG, & Beverley KJ](https://archive.bridgesmathart.org/2011/bridges2011-217.pdf)
+![Carolin](./images/HexagonDescription.png)
+![Carolin](./images/HybridHexagon.png)
+![Carolin](./images/HybridCircle.png)
+
+
+##Fioen-Berber rectangle module
+[Circular economy: modular design] (https://www.linkedin.com/pulse/circular-economy-modular-design-fioen-van-balgooi/)
+![Carolin](./images/RectDescription.png)
+
+## Shape Shifters module
+[Article of Shape Shifters] (https://blog.lexus.co.uk/lexus-design-award-2016-angelena-laura-fenuta/)
+
+## Cuma & Cross module
+It needs to make yourself in private or buy it at [Cuma & Cross website](http://www.andoo.jp/index-4.html#panel-3). Because it has its patent.
+
+
+## Human torso
+[Article about how to make human torso by Carolin](https://medium.com/@CarolinVogler/fabricating-human-shapes-6854cb14aef7)
+
+**dxf_v2-0**
+![Carolin](./images/dxf_v2-0.png)
+
+**dxf_v2-1**
+![Carolin](./images/dxf_v2-1.png)
+
+And more..
+**dxf_v2-2**, **dxf_v2-3**, **dxf_v2-4**, **dxf_v2-5**, **dxf_v2-6**, **dxf_v2-7**, **dxf_v2-8**, **dxf_v2-9**, **dxf_v2-10**, **dxf_v2-11**, **dxf_v2-12**, **dxf_v2-13**, **dxf_v2-14**, **dxf_v2-15**
+
+
+## References
 [1] Zoe Roman, Fabricademy, "Modular Fashion", http://wiki.textile-academy.org/_media/fabricademy2017/classes/modularfashionfabricademy.pdf （最終アクセス 2019年3月8日）
 
 [2] Fioen van Balgooi, "Circular economy: modular design", https://www.linkedin.com/pulse/circular-economy-modular-design-fioen-van-balgooi/ （最終アクセス 2019年3月8日）

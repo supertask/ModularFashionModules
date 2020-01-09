@@ -1,29 +1,26 @@
 # Modular Fashion Modules
 *Read this in other languages: [English](README.en.md), [日本語](README.md)
 
-This is modules at Modular Fashion. Modular Fashion is an approach to the production of accessories and
-garments using vector graphic design of bidimensional lasercut modules.
+モジュラ・ファッションのモジュール集です．以下のモジュールが含まれています．
 
-Please check out [this Zoe's slides] (http://wiki.textile-academy.org/_media/fabricademy2017/classes/modularfashionfabricademy.pdf) at FABRICADEMY(http://textile-academy.org/) .
-
-This repo has following modules.
-
-- Carolin Module
+- Carolin三角形モジュール
     - Carolin/
-    - [Article about this module by Carolin](https://medium.com/@CarolinVogler/modular-fashion-c98306c820a9)
+    - [Carolinによる記事](https://medium.com/@CarolinVogler/modular-fashion-c98306c820a9)
 
-- Eunsuk Module
+- EUNSUKハイブリッド多角形モジュール
     - HybridHexagon/
     - HybridCircle/
-    - [Public thesis about these modules by Hur ES, Thomas BG, & Beverley KJ](https://archive.bridgesmathart.org/2011/bridges2011-217.pdf)
+    - [EUNSUKらによる論文](https://archive.bridgesmathart.org/2011/bridges2011-217.pdf)
 
 - Fioen-Berber正方形モジュール
     - Rect/
 
-- Torso
+- 人型トルソー
     - HumanTorso/
-    - [Article about how to make human torso by Carolin](https://medium.com/@CarolinVogler/fabricating-human-shapes-6854cb14aef7)
+    - [Carolinによるトルソー作成の記事](https://medium.com/@CarolinVogler/fabricating-human-shapes-6854cb14aef7)
 
+## 公開できなかったモジュール
+クマ・モジュールとクロース・モジュールについては，安藤 健浩さんのモジュールについては [こちら](http://www.andoo.jp/index-4.html#panel-3) をご覧ください．このモジュールは特許申請がされています．使いたい場合は個人で作成する必要があります．また，以前まではこれらのモジュールは販売されていましたが今は販売されていないため，現在は個人でレーザーを使って作成する以外に方法がありません．
 
 ## 参考
 [1] Zoe Roman, Fabricademy, "Modular Fashion", http://wiki.textile-academy.org/_media/fabricademy2017/classes/modularfashionfabricademy.pdf （最終アクセス 2019年3月8日）
