@@ -1,5 +1,5 @@
 # Modules of Modular Fashion
-*Read this in other languages: [English](README.en.md), [日本語](README.md)
+*Read this in other languages: [English](README.md), [日本語](README.ja.md)
 
 This is modules at Modular Fashion. Modular Fashion is an approach to the production of accessories and
 garments using vector graphic design of bidimensional lasercut modules.

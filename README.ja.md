@@ -1,5 +1,5 @@
 # Modular Fashion Modules
-*Read this in other languages: [English](README.en.md), [日本語](README.md)
+*Read this in other languages: [English](README.md), [日本語](README.ja.md)
 
 モジュラ・ファッションのモジュール集です．以下のモジュールが含まれています．
 
